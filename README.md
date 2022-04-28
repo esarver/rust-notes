@@ -1,2 +1,2 @@
 # rust-notes
-Notes on how to use Rustlang as well as possible.
+Notes on how to use the Rust programming language as well as possible.
